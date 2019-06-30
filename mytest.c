@@ -2,6 +2,6 @@
 
 int test_fn(int a)
 {
-    return a * 2;
+    return a * 4;
 
 }
